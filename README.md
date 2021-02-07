@@ -1,15 +1,3 @@
-## Co-Owner: https://github.com/pranavjadhav001
-## Co-Owner: https://github.com/PhenomenalOnee
-
-# Collection:
-### Important Scripts 
-### Modified Git Repo Scripts
-### Task Done
-
-
-## PYSOT Paper Implemenation (SiameseRPN)
-
-Objective
-Creating tracking algorithms
-
+IMPLEMENTATION OF PySOT Tracking Algorithms
+Paper Link: https://openaccess.thecvf.com/content_cvpr_2018/papers/Li_High_Performance_Visual_CVPR_2018_paper.pdf
 
